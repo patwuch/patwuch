@@ -1,4 +1,4 @@
-I am a data scientist specialising in bioinformatics and machine learning with a penchant for data-driven approaches in biology, at both a macro and micro scale. My research interest include multiomics, neuroimmunology, and the gut-brain axis.
+I am a data scientist specialising in bioinformatics and machine learning with a penchant for data-driven approaches in biomedicals research, at both a macro and micro scale. My research interest include multiomics, neuroimmunology, and the gut-brain axis.
 
 Currently I am affiliated with Taipei Medical University working on
 

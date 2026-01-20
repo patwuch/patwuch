@@ -12,7 +12,7 @@ Feel free to reach out for any potential collaboration in fields such as:
 1) Omics Application in Immunology or Enterology
 2) Geospatial Data Analysis
 3) Machine Learning/Deep Learning
-4) Natural Language Processing
+4) Multimodal natural language processing
 <!--
 **patwuch/patwuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,7 +8,7 @@ Dengue fever epidemiology modelling via machine learning by leveraging Earth Obs
 ### 🦠Core Laboratory of Human Microbiome
 Human microbiota metagenomics and related technologies (transcriptomics, metabolomics...etc)
 
-Feel free to reach out for any potential collaboration in fields such as: 
+### Feel free to reach out for any potential collaboration in fields such as: 
 1) Omics Application in Immunology or Enterology
 2) Geospatial Data Analysis
 3) Machine Learning/Deep Learning

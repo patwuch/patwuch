@@ -1,6 +1,6 @@
-I am a data scientist specialising in bioinformatics and machine learning with a penchant for data-driven approaches in biomedicals research, at both a macro and micro scale. My research interest include multiomics, neuroimmunology, and the gut-brain axis.
+I am a data scientist specialising in biology and biomedical applications of data-driven discovery methods, e.g. bioinformatics, biostatistics, or machine learning for epidemiology.
 
-Currently I am affiliated with Taipei Medical University working on
+Currently I am affiliated with Taipei Medical University, working on:
 
 ### 🦟Department of Molecular Parasitology and Tropical Diseases
 Dengue fever epidemiology modelling via machine learning by leveraging Earth Observation(EO) indices, infection trends, vector biology, and Shared Socioeconomic Pathways climate/social projection data
@@ -8,7 +8,11 @@ Dengue fever epidemiology modelling via machine learning by leveraging Earth Obs
 ### 🦠Core Laboratory of Human Microbiome
 Human microbiota metagenomics and related technologies (transcriptomics, metabolomics...etc)
 
-
+Feel free to reach out for any potential collaboration in fields such as: 
+1) Omics Application in Immunology or Enterology
+2) Geospatial Data Analysis
+3) Machine Learning/Deep Learning
+4) Natural Language Processing
 <!--
 **patwuch/patwuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

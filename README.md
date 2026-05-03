@@ -1,3 +1,5 @@
+🤖 Disclaimer: As someone who believes in experimentation, I might implement the coding output of generative LLM for its utility. That being said, I do not use LLM to compose any of my written work, nor do I let LLM handle the mathematically or statistically important aspect of my projects. I welcome any feedback on potential issues in my work, and I'm committed to increasing productivity while maintaining academic rigor! 🤖 
+
 I am a data scientist specialising in biology and biomedical applications of data-driven discovery methods, e.g. bioinformatics, biostatistics, or machine learning for epidemiology.
 
 Currently I am affiliated with Taipei Medical University, working on:
@@ -8,8 +10,3 @@ Dengue fever epidemiology modelling via machine learning by leveraging Earth Obs
 ### 🦠Core Laboratory of Human Microbiome
 Human microbiota metagenomics and related technologies (transcriptomics, metabolomics...etc)
 
-### Feel free to reach out for any potential collaboration in fields such as: 
-1) Metagenomics & related multiomics use cases (preferably in Immunology!)
-2) Geospatial Data Analysis
-3) Machine Learning/Deep Learning
-4) Multimodal natural language processing

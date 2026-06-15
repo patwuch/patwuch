@@ -1,5 +1,5 @@
  
-I am a data scientist specialising in biology and biomedical applications of data-driven discovery methods, e.g. bioinformatics, biostatistics, or machine learning for epidemiology.
+I am a machine learning engineer with a passion for approaches that situates health research as a multimodal biomedical and ecological question.
 
 Currently affiliated with Taipei Medical University, working on:
 

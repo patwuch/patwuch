@@ -1,7 +1,7 @@
  
 I am a machine learning engineer passionate about approaches that situate health research as a multimodal biomedical and ecological question.
 
-Personal AI Policy: Code may be AI-generated and is always human-reviewed. Prose is always written by me and only polished with AI. 
+Personal AI Policy: Code may be AI-generated and is always human-reviewed. Prose is written by me and only polished with AI. (Translation into Chinese might be by AI depending on quality of writing, and I edit depending on their legibility.) 
 
 Currently affiliated with Taipei Medical University, working on:
 
